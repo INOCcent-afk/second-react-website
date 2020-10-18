@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/second-react-website/static/css/main.7225a45f.chunk.css",
+    "main.js": "/second-react-website/static/js/main.748e97c2.chunk.js",
+    "main.js.map": "/second-react-website/static/js/main.748e97c2.chunk.js.map",
+    "runtime-main.js": "/second-react-website/static/js/runtime-main.feb8533b.js",
+    "runtime-main.js.map": "/second-react-website/static/js/runtime-main.feb8533b.js.map",
+    "static/js/2.2dbac5c8.chunk.js": "/second-react-website/static/js/2.2dbac5c8.chunk.js",
+    "static/js/2.2dbac5c8.chunk.js.map": "/second-react-website/static/js/2.2dbac5c8.chunk.js.map",
+    "index.html": "/second-react-website/index.html",
+    "precache-manifest.05b8968a678e32fe059a3fe5f287466c.js": "/second-react-website/precache-manifest.05b8968a678e32fe059a3fe5f287466c.js",
+    "service-worker.js": "/second-react-website/service-worker.js",
+    "static/css/main.7225a45f.chunk.css.map": "/second-react-website/static/css/main.7225a45f.chunk.css.map",
+    "static/js/2.2dbac5c8.chunk.js.LICENSE.txt": "/second-react-website/static/js/2.2dbac5c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feb8533b.js",
+    "static/js/2.2dbac5c8.chunk.js",
+    "static/css/main.7225a45f.chunk.css",
+    "static/js/main.748e97c2.chunk.js"
+  ]
+}
